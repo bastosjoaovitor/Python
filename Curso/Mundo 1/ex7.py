@@ -1,0 +1,8 @@
+print('')
+print(20*'=')
+print('')
+p1 = float(input('Primeira nota do aluno: '))
+print('')
+p2 = float(input('Segunda nota do aluno: '))
+print('')
+print('A média entre as notas {:.1f} e {:.1f} é igual a {:.1f}.'.format(p1,p2,(p1+p2)/2))

@@ -1,0 +1,5 @@
+print('')
+print(20*'=')
+print('')
+m = float(input('Digite um valor em metros: '))
+print(' \n {} metros valem: \n \n Quilômetros: {} \n Hectômetros: {} \n Decâmetros: {} \n Metros: {} \n Decímetros: {} \n Centímetros: {} \n Milímetros: {} \n '.format(m,m/1000,m/100,m/10,m,m*10,m*100,m*1000))

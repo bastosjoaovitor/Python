@@ -1,0 +1,7 @@
+print(f'\n{20*"="}\n')
+c = input('Digite o nome da cidade que você nasceu: ').strip()
+c = c.lower()
+c = c.split()
+print('')
+print('Isso é', c[0]=='santo')
+print(f'\n{20*"="}\n')

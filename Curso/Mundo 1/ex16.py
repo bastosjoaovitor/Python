@@ -1,0 +1,12 @@
+from math import trunc
+print('')
+print(20*'=')
+print('')
+n = float(input('Digite um número quebrado: '))
+print('')
+print(20*'=')
+print('')
+print('A parte inteira do número {} é {}.'.format(n,trunc(n)))
+print('')
+print(20*'=')
+print('')
