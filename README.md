@@ -1,4 +1,4 @@
-# 🐍 Meus Estudos de Python
+# Meus Estudos de Python
 
 Este repositório contém uma coleção de exercícios e estudos relacionados ao Python.
 
