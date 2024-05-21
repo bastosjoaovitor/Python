@@ -1,35 +1,39 @@
-# Meus Estudos de Python
+# My Python Studies
 
-Este repositório contém uma coleção de exercícios e estudos relacionados ao Python.
+This repository comprises a compilation of exercises and studies related to the Python programming language.
 
-## 📘 Exercícios do Curso em Vídeo
+## Other Languages
 
-Neste diretório, você encontrará exercícios do Curso em Vídeo, um excelente recurso para aprender Python. São 115 exercícios cobrindo diversos tópicos.
+- [Versão em português](README_pt-BR.md)
 
-## 📚 Exercícios Independentes
+## Curso em Vídeo Exercises
 
-Além dos exercícios do Curso em Vídeo, este repositório também contém exercícios independentes que desenvolvi para praticar diferentes conceitos de Python.
+In this directory, you will find a series of exercises from Curso em Vídeo, a widely recognized resource for learning Python. There are 115 exercises covering a variety of topics.
 
-## 📖 Tópicos Estudados
+## Independent Exercises
 
-Nesta seção, explorei e pratiquei os seguintes tópicos:
+In addition to the Curso em Vídeo exercises, this repository also includes independent exercises, developed to practice different Python concepts.
 
-- Estruturas de Controle (if, else, elif)
-- Laços de Repetição (for, while)
-- Listas, Tuplas e Dicionários
-- Funções e Modularização
-- Manipulação de Arquivos
-- Tratamento de Exceções
-- Compreensão de Listas (List Comprehensions)
-- Programação Orientada a Objetos (Classes, Herança, Polimorfismo)
-- Manipulação de Strings
-- Trabalhando com Datas e Horários
-- Biblioteca Padrão do Python
-- Automação de Tarefas com Python
-- Noções Básicas de Algoritmos e Estruturas de Dados
-- Boas Práticas de Programação e Convenções PEP8
+## Study Topics
+
+In this directory, the following topics are explored and practiced:
+
+- Control Structures (if, else, elif)
+- Loops (for, while)
+- Lists, Tuples, and Dictionaries
+- Functions and Modularization
+- File Handling
+- Exception Handling
+- List Comprehensions
+- Object-Oriented Programming (Classes, Inheritance, Polymorphism)
+- String Manipulation
+- Working with Dates and Times
+- Python Standard Library
+- Task Automation with Python
+- Basic Algorithms and Data Structures
+- Programming Best Practices and PEP8 Conventions
 - ...
 
-## 🚀 Contribuição
+## Contributions
 
-Sinta-se à vontade para contribuir com novos exercícios, correções ou melhorias. Basta abrir uma issue ou enviar um pull request.
+You are welcome to contribute new exercises, corrections, or improvements. Just open an issue or send a pull request.
